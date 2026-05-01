@@ -148,7 +148,7 @@ method.ckpt=path/to/llava-sweep_to_dustpan_of_size_merged # this is the download
 
 ## Citation
 
-Thanks again to all the authors at [LLARVA](https://github.com/haotian-liu/LLaVA) for their contributions!  
+Thanks again to all the authors at [LLARVA](https://github.com/Dantong88/LLARVA) for their contributions!  
 If you find our work inspiring or use our codebase in your research, please consider giving a star ⭐ and a citation.
 
 
